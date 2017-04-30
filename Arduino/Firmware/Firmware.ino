@@ -9,9 +9,8 @@
 // ======================= END OF INCLUDE BLOCK // =============================
 
 // =======================Pin Definitions - ONLY MODIFY PIN NUMBERS // =========
-
-#define WATERFLOW_PIN_SIG	2
-
+#define UVSENSOR_PIN_OUT	A3
+#define UVSENSOR_PIN_3.3V	A4
 // =======================Pin Definitions // ===================================
 
 
